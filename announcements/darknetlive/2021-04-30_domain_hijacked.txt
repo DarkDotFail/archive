@@ -1,0 +1,30 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Hello,
+
+Darknetlive suddenly lost control of the darknetlive.com domain which was formerly at Njalla. At some point today, the domain transferred to Tucows without my permission or knowledge. Darknetlive.com is currently serving phishing links.
+
+It is unclear how we will proceed going forward but domain recovery seems unlikely. It is still unclear how this party obtained access to the njalla account (assuming that is how they obtained the domain tranfer authorization code).
+
+Darknetlive.com is compromised. Do not trust any content on the site unless I post another message signed with this PGP key.
+
+(8A00 F5D2 07DF BD35 114B 515D 6A19 CDF9 50C5 327D / 6A19CDF950C5327D)
+
+dnl
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEE/J/esPnOKYsrH58/K1Bzt2hqvtQFAmCK7PIACgkQK1Bzt2hq
+vtTqhRAAnCsgyYGM2AOY0bComgwm2zNazc3xvK8xsiGV5LJ1u1aReTAoz1sxi95C
+MBtvRZQiBRtCE2ifvm3JqCEeODPN62dfk9trnfnRzXypE3c4UaYKV9QcaZ4hnu6P
+TpZigCBmz3SOQd+z2Kmv3X8PlxfTBlrC6UXtJfU1l/ebznqm5EkL+/Vp4FJFiBDr
+80rtj6Y+mlokcYw7z1X/Qu3iZ5NE/jtPjKcetPYbBGLQ6KlqwQDc6qUFNB+G3Gtu
+RfjINHGW6DbhRh+Iep4bQd6OVnjiSVdSuIypa+7mmGLLTpgTf87rXj1NXwb3UN27
+akOtoUJsgFr08Jmv2n/o8t7nsndOFwGN4JjsiqNDPU5BCqRWuhZRmC/SYpn6OPUF
+RrdgT23WC1MyGRZuthD6u/YXCPnwBPmy30pVUyTzQY4C8hSv83wqD9xcEHgXkkpv
++SPzofDZN3fgie5i60mp1muPOYU2vmShyzrTkqDxIZH7Rpgiu/JAyvPTeRS0vWsY
+Jq5O7UTnqO802I/e81+JSJ1m0dibElnYxfQ9MYCfzJ894y17ngpa3f39uQeXyNBL
+BldJVaTyILyBD07IxkvzZRQdTjS/Y7fsc2SoziF19hpOKYHEZrp9W4np9U2mYWuI
+aQWf/cwd3WxIihrkQK9FF0NpqgHTijwlQT/Mf/1RpXIoCW2ZVoU=
+=Z6xv
+-----END PGP SIGNATURE-----
